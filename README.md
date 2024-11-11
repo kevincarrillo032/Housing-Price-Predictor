@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to directory:
    ```bash
-   cd <reponame>
+   cd Housing-Price-Predictor
    ```
 
 3. Install requirements.txt:
